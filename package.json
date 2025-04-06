@@ -2,9 +2,9 @@
   "name": "sui-allowlist-bot",
   "version": "1.0.0",
   "description": "A bot for managing SUI allowlists",
-  "main": "index.js",
+  "main": "sentsui.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node sentsui.js"
   },
   "dependencies": {
     "@mysten/sui.js": "^0.50.1",
